@@ -1,0 +1,4 @@
+https://data.mendeley.com/datasets/rscbjbr9sj/2
+
+or 
+https://www.kaggle.com/code/khoongweihao/covid-19-ct-scan-xray-cnn-detector/data
